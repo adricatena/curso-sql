@@ -1,3 +1,5 @@
+CREATE DATABASE pagila
+
 -- Borrar tabla
 DROP TABLE IF EXISTS employees
 
